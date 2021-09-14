@@ -11,6 +11,8 @@ The threshold value is relative by the relationship between the distance of the 
 ## Beep warning:
 This code implements a beep warning by "winsound" Python Library, by the way, it can be changed to work with other OS.
 
-## Dependencies:
-1. OpenCV - in Prompt Command use: pip install opencv-python
-2. MediaPipe - in Propt Command use: pip install mediapipe
+# Dependencies:
+1. OpenCV - in Prompt Command use: 
+##   pip install opencv-python
+2. MediaPipe - in Propt Command use: 
+##   pip install mediapipe
