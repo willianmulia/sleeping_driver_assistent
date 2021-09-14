@@ -1,6 +1,10 @@
 # sleeping_driver_assistent
 ## Simple and fast Python code that recognizes a sleeping driver by image processing through the MediaPipe python library.
 
+<div align="center">
+![python_driver](https://user-images.githubusercontent.com/90709774/133299772-34338dbf-a6ae-4b3c-af69-343617dc551a.png)
+</div>
+
 # Principal Features:
 ## Real-time recognition:
 With a camera, it implements frame-by-frame image processing.
