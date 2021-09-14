@@ -5,11 +5,11 @@
 ## Fast:
 Image Processing by Python MediaPipe Library.
 ## Simple: 
-Basic logic is based on Euclidean distance between interesting points on driver face.
+The basic logic is based on the Euclidean distance between the points of interest on the driver's face.
 ## Scale invariant:
-Value of thresholding is relative by the relationship of distance of eye points and face's size (vertical head line).
+The threshold value is relative by the relationship between the distance of the eye points and the size of the face (vertical line of the head).
 ## Beep warning:
-This code implements a beep warning by "winsound" Python Library, by the way, it can be change to work with others OS.
+This code implements a beep warning by "winsound" Python Library, by the way, it can be changed to work with other OS.
 
 ## Dependencies:
 1. OpenCV - in Prompt Command use: pip install opencv-python
