@@ -9,7 +9,7 @@ Image Processing by Python MediaPipe Library.
 ## Simple: 
 The basic logic is based on the Euclidean distance between the points of interest on the driver's face.
 ## Scale invariant:
-The threshold value is relative by the relationship between the distance of the eye points and the size of the face (vertical line of the head).
+The threshold value is relative by the relationship between the distance of the eye points and the length of nose (vertical line).
 ## Beep warning:
 This code implements a beep warning by "winsound" Python Library, by the way, it can be changed to work with other OS.
 
