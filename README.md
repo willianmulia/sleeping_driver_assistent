@@ -1,4 +1,4 @@
-# sleeping_driver_assistent
+# Sleeping Driver Assintent
 ## Simple and fast Python code that recognizes a sleeping driver by image processing through the MediaPipe python library.
 
 <div align="center">
