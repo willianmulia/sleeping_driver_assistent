@@ -11,8 +11,6 @@ HEAD_LIST = [6, 1]
 mp_face_mesh = mp.solutions.face_mesh
 mp_drawing = mp.solutions.drawing_utils
 
-drawing_spec = mp_drawing.DrawingSpec(thickness=1, circle_radius=1)
-
 cap = cv2.VideoCapture(0)
 width, height = cap.get(cv2.CAP_PROP_FRAME_WIDTH), cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
 n_pisc = 0
