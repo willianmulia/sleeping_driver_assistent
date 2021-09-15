@@ -5,7 +5,7 @@
 <img src = "https://user-images.githubusercontent.com/90709774/133299772-34338dbf-a6ae-4b3c-af69-343617dc551a.png") />
 </div>
 
-# Principal Features:
+# Main features:
 ## Real-time recognition:
 With a camera, it implements frame-by-frame image processing.
 ## Fast:
